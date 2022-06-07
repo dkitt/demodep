@@ -1,1 +1,9 @@
 Toto je soubor ve vetvi v56
+Enumerating objects: 5, done.
+Counting objects: 100% (5/5), done.
+Delta compression using up to 4 threads
+Compressing objects: 100% (2/2), done.
+Writing objects: 100% (3/3), 311 bytes | 155.00 KiB/s, done.
+Total 3 (delta 0), reused 0 (delta 0), pack-reused 0
+To github.com:dkitt/demodep.git
+   c3bb8c5..b9a20aa  v56 -> v56
